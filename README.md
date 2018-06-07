@@ -7,3 +7,5 @@ ex4.rb: Lesson 4 was a simple introduction to variables and names.
 
 ex5.rb: The biggest thing from Lesson 5 was the introduction of embedding variables within strings.
 
+ex6.rb: A short but important lesson on variables with complex strings. 
+
