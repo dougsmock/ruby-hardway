@@ -5,3 +5,5 @@ ex2.rb: From Lesson 3, actually, this introduced the wide variety of math option
 
 ex4.rb: Lesson 4 was a simple introduction to variables and names.
 
+ex5.rb: The biggest thing from Lesson 5 was the introduction of embedding variables within strings.
+
