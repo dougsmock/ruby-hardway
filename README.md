@@ -9,3 +9,5 @@ ex5.rb: The biggest thing from Lesson 5 was the introduction of embedding variab
 
 ex6.rb: A short but important lesson on variables with complex strings. 
 
+ex7.rb: Another string lesson, but this one was tricky. I promise I followed the author's adminition to type and not copy-paste these things.
+
