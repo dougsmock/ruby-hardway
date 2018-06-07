@@ -11,3 +11,5 @@ ex6.rb: A short but important lesson on variables with complex strings.
 
 ex7.rb: Another string lesson, but this one was tricky. I promise I followed the author's adminition to type and not copy-paste these things.
 
+ex8.rb: Introduction to format strings, a "formatter" function if you will. Author promises he will expound on the concept later in the book.
+
