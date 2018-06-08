@@ -23,4 +23,6 @@ ex12.rb: We prompt the user for numbers and handle those according to script. Th
  
 ex13.rb: This exercise introduced the concept of a script accepting arguments and "unpacking" ARGV.
 
-ex14.rb: This exercises uses ARGV and gets.chomp together to ask the user something specific. This sets up Exercise 15, where we earn to read and write files. 
+ex14.rb: This exercise uses ARGV and gets.chomp together to ask the user something specific. This sets up Exercise 15, where we earn to read and write files. 
+
+ex15.rb: This exercise introduces reading from a file and ouputting that. 
