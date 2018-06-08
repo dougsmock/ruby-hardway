@@ -13,3 +13,4 @@ ex7.rb: Another string lesson, but this one was tricky. I promise I followed the
 
 ex8.rb: Introduction to format strings, a "formatter" function if you will. Author promises he will expound on the concept later in the book.
 
+ex9.rb: A continuation of the previous two exercises, but with two notable items: The proper use of \n and the puts %q command to print an entire block of text at once.
