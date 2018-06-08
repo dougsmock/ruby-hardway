@@ -8,7 +8,7 @@ puts prompt
 likes = $stdin.gets.chomp
 
 puts "Where do you live #{userName}?"
-puts present
+puts prompt
 lives = $stdin.gets.chomp
 
 #a comma for puts is like using it twice
