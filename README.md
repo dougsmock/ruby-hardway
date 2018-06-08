@@ -18,3 +18,5 @@ ex9.rb: A continuation of the previous two exercises, but with two notable items
 ex10.rb: This is an introduction to using a \ to "escape" characters from strings, i.e., \\, \' , \" , \t* (horizontal tab), etc.
 
 ex11.rb: Finally, we start to handle inputs and return values. The "gets.chomp" command is introduced.
+
+ex12.rb: We prompt the user for numbers and handle those according to script. The integer-handling function gets.chomp.to_i is introduced. 
