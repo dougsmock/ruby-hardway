@@ -20,3 +20,7 @@ ex10.rb: This is an introduction to using a \ to "escape" characters from string
 ex11.rb: Finally, we start to handle inputs and return values. The "gets.chomp" command is introduced.
 
 ex12.rb: We prompt the user for numbers and handle those according to script. The integer-handling function gets.chomp.to_i is introduced. 
+ 
+ex13.rb: This exercise introduced the concept of a script accepting arguments and "unpacking" ARGV.
+
+
