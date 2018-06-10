@@ -26,3 +26,13 @@ ex13.rb: This exercise introduced the concept of a script accepting arguments an
 ex14.rb: This exercise uses ARGV and gets.chomp together to ask the user something specific. This sets up Exercise 15, where we earn to read and write files. 
 
 ex15.rb: This exercise introduces reading from a file and ouputting that. 
+
+ex16.rb: Commands to learn and remember include close, read, readline, truncate, write('stuff') and seek(0).
+
+ex17.rb: Very short exercise on copying one filed to another.
+
+ex18.rb: The introduction to functions, and four of many different ways to do them. Three facets the author gives: (1) Functions name pieces of code the way variables name strings and numbers. (2) They take arguments the way your scripts take ARGV. (3) Using 1 and 2, they let you make your own "mini-scripts" or "tiny commands." 
+
+ex19.rb: The variables in your function are not connected to the variables in your script, which is throwing me off early in this class. This chapter covers that.
+
+ex20.rb: The study of functions continues, showing how functions and files work together.
