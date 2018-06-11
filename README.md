@@ -36,3 +36,5 @@ ex18.rb: The introduction to functions, and four of many different ways to do th
 ex19.rb: The variables in your function are not connected to the variables in your script, which is throwing me off early in this class. This chapter covers that.
 
 ex20.rb: The study of functions continues, showing how functions and files work together.
+
+ex21.rb: Time to see how functions can accept arguments and return answers to math equations and/or strings. The "return" command is introduced, though a author-suggested test shows the script defaults to perform the last calculation.  
