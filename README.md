@@ -37,4 +37,6 @@ ex19.rb: The variables in your function are not connected to the variables in yo
 
 ex20.rb: The study of functions continues, showing how functions and files work together.
 
-ex21.rb: Time to see how functions can accept arguments and return answers to math equations and/or strings. The "return" command is introduced, though a author-suggested test shows the script defaults to perform the last calculation.  
+ex21.rb: Time to see how functions can accept arguments and return answers to math equations and/or strings. The "return" command is introduced, though a author-suggested test shows the script defaults to perform the last calculation. 
+
+ex24.rb: A short but wide-ranging review of what we have done in the opening chapters; nothing really new.
