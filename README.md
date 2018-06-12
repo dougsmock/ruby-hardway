@@ -40,3 +40,5 @@ ex20.rb: The study of functions continues, showing how functions and files work 
 ex21.rb: Time to see how functions can accept arguments and return answers to math equations and/or strings. The "return" command is introduced, though a author-suggested test shows the script defaults to perform the last calculation. 
 
 ex24.rb: A short but wide-ranging review of what we have done in the opening chapters; nothing really new.
+
+ex25.rb: This is an exercise to use a module break up sentences, sort them and output words in prescribed ways. The module was a new feature, as was using irb to follow code. 
